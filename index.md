@@ -25,7 +25,7 @@ I am a Cognitive Science major and CS minor. I am a senior about to graduate in 
 
 ### Relative Links
 * [View my Private Info File](./PRIVATE.txt)
-* [Link to an Image in this Repo](./images-3.png)
+* [Link to an Image in this Repo](./images-3.jpeg)
 
 ### Sample Code Example 
 To print "Hello World" in Python, use:
